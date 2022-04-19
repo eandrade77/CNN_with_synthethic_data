@@ -1,5 +1,0 @@
-airplanes
-BACKGROUND_Google
-dalmatian_full
-doberman
-german_shepherd
