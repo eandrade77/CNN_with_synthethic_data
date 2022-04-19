@@ -1,2 +1,2 @@
 # Treinamento de Redes Neurais Convolucionais com Uso de Imagens Sintéticas e Técnicas de Interpretabilidade
-Repositório dos Códigos Fonte Dissertação UFABC
+Repositório dos Códigos Fonte Dissertação UFABC - Abril/2022
