@@ -3,3 +3,6 @@ https://drive.google.com/drive/folders/1LXP9zw9d8WYsbZTnwXDjgWL7rgMycQJG?usp=sha
 
 #Treinamento
 https://drive.google.com/drive/folders/16ILdOddSJhwLZ7m4ZN6IPb3YjZyB0pVE?usp=sharing
+
+#Colab Noteooks
+https://drive.google.com/drive/folders/15vUE-Gf-WSOd6u2-FTBlMFlFf40bZxSc?usp=sharing
